@@ -1,0 +1,5 @@
+D:/year4/game dev/FaceFilter/.utmp/RelWithDebInfo/a307181p/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/year4/game dev/FaceFilter/.utmp/RelWithDebInfo/a307181p/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/year4/game dev/FaceFilter/.utmp/RelWithDebInfo/a307181p/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/year4/game dev/FaceFilter/.utmp/RelWithDebInfo/a307181p/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/year4/game dev/FaceFilter/.utmp/RelWithDebInfo/a307181p/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
